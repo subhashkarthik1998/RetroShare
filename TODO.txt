@@ -13,7 +13,7 @@ PS: no tabs in this file,thx ;-)
 
 ----------------------------------------  TODO for RC ---------------------------------------------
 
-    E  [ ] Implement creation of a default (signed) gxs id in startup wizard. Needs to show to the user a proper separation between nodes (network layer) and GXS ids (service layer).
+    E  [ ] Implement creation of a default (signed) gxs id in the startup wizard. Needs to show to the user a proper separation between nodes (network layer) and GXS ids (service layer).
     E  [ ] add tooltips in in permission matrix when hovering over the top most button/service name explain what the service does and the dependencies
     E  [ ] finish pass of GXS network service
 
